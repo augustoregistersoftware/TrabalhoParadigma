@@ -11,7 +11,7 @@ Bem-vindo ao projeto **Finar**. Este guia tem como objetivo ajudar na configura�
 
 ### 1. Baixar e Instalar o XAMPP
 
-1. Baixe a última versão do XAMPP a partir do [site oficial](https://www.apachefriends.org/index.html).
+1. Baixe a versão nao tao recente do XAMPP a partir do [site oficial](https://www.apachefriends.org/index.html).
 2. Instale o XAMPP em seu sistema. Durante a instalação, certifique-se de que os módulos **Apache** e **MySQL** estão selecionados.
 
 ### 2. Iniciar o XAMPP
