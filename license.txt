@@ -1,0 +1,7 @@
+The MIT License (MIT)
+
+Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+
+Confidentiality Notice
+
+This code is private and confidential property. The copying, distribution or disclosure of any part of this code to third parties without the prior written consent of the creator is expressly prohibited. Unauthorized use, sharing or reproduction of this code, or any part thereof, will result in legal action as applicable. If you received this code in error, please notify the sender immediately and delete all copies of it in your possession.
