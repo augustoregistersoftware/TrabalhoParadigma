@@ -27,6 +27,7 @@ Bem-vindo ao projeto **Finar**. Este guia tem como objetivo ajudar na configura√
    - Digite **finar** como o nome do banco de dados.
    - Clique em "**Criar**".
 3. Importe o arquivo de backup do banco de dados:
+	- Baixe o Arquivo .sql do projeto
    - Clique no banco de dados **finar**.
    - Selecione a aba "**Importar**".
    - Clique em "**Escolher arquivo**" e selecione o arquivo de backup do banco de dados (deve ter extens√£o **.sql**).
