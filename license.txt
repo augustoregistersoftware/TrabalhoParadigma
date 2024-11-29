@@ -1,7 +1,28 @@
-The MIT License (MIT)
+# Licença de Uso - Projeto Finar
 
-Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+Este projeto, denominado **Finar**, é protegido por direitos autorais e é fornecido sob uma licença que restringe seu uso, distribuição e modificação. Leia atentamente os termos desta licença antes de utilizar o software.
 
-Confidentiality Notice
+## Direitos Reservados
 
-This code is private and confidential property. The copying, distribution or disclosure of any part of this code to third parties without the prior written consent of the creator is expressly prohibited. Unauthorized use, sharing or reproduction of this code, or any part thereof, will result in legal action as applicable. If you received this code in error, please notify the sender immediately and delete all copies of it in your possession.
+Todos os direitos sobre o código-fonte, design, funcionalidades e qualquer outro aspecto deste projeto são reservados aos seus desenvolvedores originais. Você não pode copiar, reproduzir, distribuir ou utilizar qualquer parte deste projeto, no todo ou em parte, sem a permissão expressa por escrito do autor.
+
+## Restrições de Uso
+
+- **Proibido Copiar ou Redistribuir**: É estritamente proibido copiar, distribuir ou vender este software sem autorização prévia.
+- **Proibido Modificar**: Nenhuma modificação ou engenharia reversa do código é permitida sem a devida permissão.
+- **Uso Exclusivo**: O uso é permitido apenas para propósitos educacionais ou de desenvolvimento, sendo vedado o uso comercial sem acordo prévio.
+
+## Limitação de Responsabilidade
+
+Os desenvolvedores não serão responsáveis por qualquer dano ou prejuízo decorrente do uso deste software. O uso é por sua conta e risco.
+
+## Permissão Limitada
+
+Uma permissão limitada é concedida para uso deste software exclusivamente para testes, estudo e desenvolvimento pessoal. Para qualquer outra finalidade, é necessário solicitar autorização diretamente ao autor.
+
+## Contato
+
+Para obter permissão de uso ou para qualquer outra questão relacionada a esta licença, entre em contato pelo e-mail do desenvolvedor.
+
+Obrigado por respeitar os termos desta licença!
+
